@@ -1,0 +1,12 @@
+projects:
+    css-base: ~
+    php-excel-plus: ~
+    readonly_field: { tags: drupal }
+    symfony1-skeleton: { tags: symfony }
+    sfAdminDashPlugin: { tags: symfony }
+    zsI18nExtractTranslatePlugin: { tags: symfony }
+    GithubCMSBundle: { tags: symfony }
+    VersionBundle: { tags: symfony }
+    lamp-setup: ~
+    HighlightBundle: { tags: symfony }
+    geshi-wrapper: ~

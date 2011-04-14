@@ -1,0 +1,13 @@
+portfolio:
+    eBirdr:
+        url: http://ebirdr.com/
+        description: Online field guide to the birds of North America revamped for Web 2.0
+
+    ineptadept:
+        url: http://ineptadept.ca/
+        description: A web comic of inept drawings & adept minds. Based on the lives of two scholars from Queen's University in Kingston Ontario Canada.
+
+    SymfonyCasts:
+        url: http://symfony-casts.com/
+        tags: development
+        description: Free symfony framework screencasts.  Tutorials on everything symfony - from start to deployment, novice to experts.
