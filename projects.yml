@@ -10,4 +10,4 @@ projects:
     lamp-setup: ~
     HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
-    symfony-casts.com: { tags: "symfony, website" }
+    symfony-casts.com: { tags: "symfony" }
