@@ -3,10 +3,11 @@ projects:
     php-excel-plus: ~
     readonly_field: { tags: drupal }
     symfony1-skeleton: { tags: symfony }
-    sfAdminDashPlugin: { tags: symfony }
-    zsI18nExtractTranslatePlugin: { tags: symfony }
-    GithubBundle: { tags: symfony }
-    VersionBundle: { tags: symfony }
+    sfAdminDashPlugin: { tags: symfony, plugin }
+    zsI18nExtractTranslatePlugin: { tags: symfony, plugin }
+    GithubBundle: { tags: symfony, bundle }
+    VersionBundle: { tags: symfony, bundle }
     lamp-setup: ~
-    HighlightBundle: { tags: symfony }
+    HighlightBundle: { tags: symfony, bundle }
     geshi-wrapper: ~
+    symfony-casts.com: { tags: symfony, website }
