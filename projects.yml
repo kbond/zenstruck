@@ -11,3 +11,4 @@ projects:
     HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
     symfony-casts.com: { tags: "symfony" }
+    zenstruck.com: { tags: "symfony, no_tag" }
