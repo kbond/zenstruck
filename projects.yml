@@ -11,4 +11,7 @@ projects:
     HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
     symfony-casts.com: { tags: "symfony" }
-    zenstruck.com: { tags: "symfony, no_tag" }
+    zenstruck.com:
+        tags: "symfony, no_tag"
+        description: This website, powered by Github and Symfony2
+        date: '2011-01-01'
