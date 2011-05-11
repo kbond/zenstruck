@@ -10,5 +10,26 @@ projects:
     lamp-setup: ~
     HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
-    symfony-casts.com: { tags: "symfony" }
-    CMSBundle: { tags: "symfony, bundle" }
+    SymfonyCasts: 
+        tags: "symfony"
+        url: http://symfony-casts.com/
+        github_repo: symfony-casts.com
+        portfolio: true
+    zenstruck.com:
+        tags: "symfony, no_tag"        
+        portfolio: true
+        url: http://zenstruck.com/
+        description: This website, powered by Github and Symfony2
+    eBirdr:
+        url: http://ebirdr.com/
+        portfolio: true
+        listed: false
+        description: |
+            Online field guide to the birds of North America revamped 
+            for Web 2.0        
+    ineptadept:
+        url: http://ineptadept.ca/
+        portfolio: true
+        description: |
+            A web comic of inept drawings & adept minds. Based on the lives 
+            of two scholars from Queen's University in Kingston Ontario Canada.
