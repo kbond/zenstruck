@@ -12,6 +12,7 @@ projects:
     geshi-wrapper: ~
     SymfonyCasts: 
         tags: "symfony"
+        url: http://symfony-casts.com/
         github_repo: symfony-casts.com
         portfolio: true
     zenstruck.com:
