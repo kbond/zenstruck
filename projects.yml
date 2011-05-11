@@ -13,6 +13,7 @@ projects:
     SymfonyCasts: 
         tags: "symfony"
         github_repo: symfony-casts.com
+        portfolio: true
         tags: development
     zenstruck.com:
         tags: "symfony, no_tag"
