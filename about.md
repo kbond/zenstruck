@@ -41,7 +41,7 @@ Some other open source tools I use:
 
 I created this website to consolidate all of my projects and to establish a portfolio.
 
-  [1]: http://http://www.symfony.com/
+  [1]: http://www.symfony.com/
   [2]: http://www.symfony-project.org/plugins/sfAdminDashPlugin/
   [3]: http://www.netbeans.org/
   [4]: http://www.wampserver.com/en/index.php
