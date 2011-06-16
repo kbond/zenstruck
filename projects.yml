@@ -8,6 +8,7 @@ projects:
     GithubBundle: { tags: "symfony, bundle" }
     VersionBundle: { tags: "symfony, bundle" }
     lamp-setup: ~
+    RedirectBundle: { tags: "symfony, bundle" }
     # HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
     SymfonyCasts: 
