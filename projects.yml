@@ -30,6 +30,7 @@ projects:
             for Web 2.0
     ineptadept:
         url: http://ineptadept.ca/
+        github_repo: ineptadept.ca
         portfolio: true
         description: |
             A web comic of inept drawings & adept minds. Based on the lives
