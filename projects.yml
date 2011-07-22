@@ -18,15 +18,18 @@ projects:
         portfolio: true
     zenstruck.com:
         tags: "symfony, no_tag"
+        github_repo: zenstruck.com
         description: This website, powered by Github and Symfony2
         portfolio: true
         url: http://zenstruck.com/
     eBirdr:
         url: http://ebirdr.com/
+        github_repo: ebirdr.com
         description: Online field guide to the birds of North America revamped for Web 2.0 (test-data)
         portfolio: true
         listed: false
     ineptadept:
         url: http://ineptadept.ca/
+        github_repo: ineptadept.ca
         portfolio: true
         description: A web comic of inept drawings & adept minds. Based on the lives of two scholars from Queen's University in Kingston Ontario Canada.
