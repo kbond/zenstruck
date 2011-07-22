@@ -5,11 +5,10 @@ projects:
     symfony1-skeleton: { tags: symfony }
     sfAdminDashPlugin: { tags: "symfony, plugin" }
     zsI18nExtractTranslatePlugin: { tags: "symfony, plugin" }
-    GithubBundle: { tags: "symfony, bundle" }
-    VersionBundle: { tags: "symfony, bundle" }
+    ZenstruckGithubBundle: { tags: "symfony, bundle" }
+    ZenstruckVersionBundle: { tags: "symfony, bundle" }
     lamp-setup: ~
-    RedirectBundle: { tags: "symfony, bundle" }
-    # HighlightBundle: { tags: "symfony, bundle" }
+    ZenstruckRedirectBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
     SymfonyCasts: 
         tags: "symfony"
