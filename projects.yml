@@ -23,7 +23,7 @@ projects:
         description: This website, powered by Github and Symfony2
     eBirdr:
         url: http://ebirdr.com/
-        github_repo: symfony-casts.com
+        github_repo: ebirdr.com
         portfolio: true
         description: |
             Online field guide to the birds of North America revamped
