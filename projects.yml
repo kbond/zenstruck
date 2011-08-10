@@ -9,6 +9,7 @@ projects:
     ZenstruckVersionBundle: { tags: "symfony, bundle" }
     lamp-setup: ~
     ZenstruckRedirectBundle: { tags: "symfony, bundle" }
+    ZenstruckContentBundle: { tags: "symfony, bundle" }
     # HighlightBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
     SymfonyCasts: 
