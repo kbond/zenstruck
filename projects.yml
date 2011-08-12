@@ -7,6 +7,7 @@ projects:
     zsI18nExtractTranslatePlugin: { tags: "symfony, plugin" }
     ZenstruckGithubBundle: { tags: "symfony, bundle" }
     ZenstruckVersionBundle: { tags: "symfony, bundle" }
+    ZenstruckContentBundle: { tags: "symfony, bundle" }
     lamp-setup: ~
     ZenstruckRedirectBundle: { tags: "symfony, bundle" }
     # HighlightBundle: { tags: "symfony, bundle" }
