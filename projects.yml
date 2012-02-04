@@ -12,11 +12,6 @@ projects:
     ZenstruckContentBundle: { tags: "symfony, bundle" }
     ZenstruckMobileBundle: { tags: "symfony, bundle" }
     geshi-wrapper: ~
-    SymfonyCasts: 
-        tags: "symfony"
-        url: http://symfony-casts.com/
-        github_repo: symfony-casts.com
-        portfolio: true
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
