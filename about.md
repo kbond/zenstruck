@@ -1,9 +1,5 @@
-<div class="figure figure-right">
-    <img src="http://www.gravatar.com/avatar/61686eb3356aecd961d8d7a2639c8720.png" alt="Kevin Bond" />
-</div>
-
-# Kevin Bond
-## Web Developer
+## Kevin Bond
+### Web Developer
 
 > I am enough of an artist to draw freely upon my imagination.<br />-Albert Einstein
 
