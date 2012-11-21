@@ -1,5 +1,5 @@
-## Kevin Bond
-### Web Developer
+# Kevin Bond
+## Web Developer
 
 > I am enough of an artist to draw freely upon my imagination.<br />-Albert Einstein
 
