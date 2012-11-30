@@ -1,18 +1,16 @@
 projects:
-    css-base: ~
     php-excel-plus: ~
     readonly_field: { tags: drupal }
-    symfony1-skeleton: { tags: symfony }
     sfAdminDashPlugin: { tags: "symfony, plugin" }
     zsI18nExtractTranslatePlugin: { tags: "symfony, plugin" }
     ZenstruckGithubBundle: { tags: "symfony, bundle" }
     ZenstruckVersionBundle: { tags: "symfony, bundle" }
-    ZenstruckMigrationsBundle: { tags: "symfony, bundle" }    
-    lamp-setup: ~
+    ZenstruckMigrationsBundle: { tags: "symfony, bundle" }
     ZenstruckRedirectBundle: { tags: "symfony, bundle" }
     ZenstruckContentBundle: { tags: "symfony, bundle" }
     ZenstruckMobileBundle: { tags: "symfony, bundle" }
-    geshi-wrapper: ~
+    ZenstruckImagineExtraBundle: { tags: "symfony, bundle" }
+    imagine-filters: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
