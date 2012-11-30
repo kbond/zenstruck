@@ -8,4 +8,4 @@ has since come to greatly respect many other open source projects. He provides g
 *zenstruck* is sort of a play on words trying to capture an ideal he strives for when developing.
 Simple, clean, yet powerful applications.  When all this comes together it is an amazing thing... leaving you zenstruck.
 
-  [1]: http://www.symfony.com/
+[1]: http://www.symfony.com/
