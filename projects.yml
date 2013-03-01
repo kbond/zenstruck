@@ -11,6 +11,7 @@ projects:
     ZenstruckMobileBundle: { tags: "symfony, bundle" }
     ZenstruckImagineExtraBundle: { tags: "symfony, bundle" }
     ZenstruckFormBundle: { tags: "symfony, bundle" }
+    ZenstruckDashboardBundle: { tags: "symfony, bundle" }
     ZenstruckCacheBundle: { tags: "symfony, bundle" }
     imagine-filters: ~
     zenstruck.com:
