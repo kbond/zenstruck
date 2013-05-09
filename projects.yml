@@ -14,6 +14,7 @@ projects:
     ZenstruckDashboardBundle: { tags: "symfony, bundle" }
     ZenstruckCacheBundle: { tags: "symfony, bundle" }
     ZenstruckSlugifyBundle: { tags: "symfony, bundle" }
+    ZenstruckMediaBundle: { tags: "symfony, bundle" }
     imagine-filters: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
