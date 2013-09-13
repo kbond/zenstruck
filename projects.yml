@@ -1,6 +1,5 @@
 projects:
     php-excel-plus: ~
-    readonly_field: { tags: drupal }
     sfAdminDashPlugin: { tags: "symfony, plugin" }
     zsI18nExtractTranslatePlugin: { tags: "symfony, plugin" }
     ZenstruckGithubBundle: { tags: "symfony, bundle" }
