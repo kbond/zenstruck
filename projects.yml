@@ -1,4 +1,5 @@
 projects:
+    intl: ~
     php-excel-plus: ~
     sfAdminDashPlugin: { tags: "symfony, plugin" }
     zsI18nExtractTranslatePlugin: { tags: "symfony, plugin" }
