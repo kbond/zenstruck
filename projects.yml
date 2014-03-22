@@ -17,6 +17,8 @@ projects:
     ZenstruckMediaBundle: { tags: "symfony, bundle" }
     ZenstruckResourceBundle: { tags: "symfony, bundle" }
     ZenstruckDataGridBundle: { tags: "symfony, bundle" }
+    ZenstruckControllerUtilBundle: { tags: "symfony, bundle" }
+    ControllerUtil: ~
     imagine-filters: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
