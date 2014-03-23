@@ -18,6 +18,7 @@ projects:
     ZenstruckResourceBundle: { tags: "symfony, bundle" }
     ZenstruckDataGridBundle: { tags: "symfony, bundle" }
     ZenstruckControllerUtilBundle: { tags: "symfony, bundle" }
+    ControllerUtilServiceProvider: ~
     ControllerUtil: ~
     imagine-filters: ~
     zenstruck.com:
