@@ -21,6 +21,7 @@ projects:
     ControllerUtilServiceProvider: ~
     ControllerUtil: ~
     imagine-filters: ~
+    ZenstruckBackupBundle: { tags: "symfony, bundle" }
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
