@@ -38,11 +38,3 @@ projects:
         description: |
             Online field guide to the birds of North America revamped 
             for Web 2.0.  Built with Symfony2.
-    ineptadept:
-        url: http://ineptadept.ca/
-        portfolio: true
-        github_repo: ineptadept.ca
-        description: |
-            A web comic of inept drawings & adept minds. Based on the lives 
-            of two scholars from Queen's University in Kingston Ontario Canada.
-            Built with symfony 1.
