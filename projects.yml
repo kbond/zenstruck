@@ -24,6 +24,7 @@ projects:
     ZenstruckBackupBundle: { tags: "symfony, bundle" }
     string: ~
     string-twig: ~
+    Queue: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
