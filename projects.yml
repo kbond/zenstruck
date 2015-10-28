@@ -26,6 +26,7 @@ projects:
     string-twig: ~
     Queue: ~
     ZenstruckObjectRoutingBundle: ~
+    php-backup: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
