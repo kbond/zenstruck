@@ -24,7 +24,7 @@ projects:
     ZenstruckBackupBundle: { tags: "symfony, bundle" }
     string: ~
     string-twig: ~
-    Queue: ~
+    php-queue: ~
     ZenstruckObjectRoutingBundle: ~
     php-backup: ~
     zenstruck.com:
