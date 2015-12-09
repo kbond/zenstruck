@@ -25,6 +25,7 @@ projects:
     string: ~
     string-twig: ~
     php-queue: ~
+    php-jwt: ~
     ZenstruckObjectRoutingBundle: ~
     php-backup: ~
     zenstruck.com:
