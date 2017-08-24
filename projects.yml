@@ -34,15 +34,13 @@ projects:
         tags: "symfony, no_tag"        
         portfolio: true
         url: http://zenstruck.com/
-        description: This website, powered by Github and Symfony2
+        description: This website, built with Silex.
     ktsdi.com:
         portfolio: true
         url: http://www.ktsdi.com/
-        description: Corporate website for KTSDI LLC.  Built with wordpress.
+        description: Corporate website for KTSDI LLC. Built with Silex.
     eBirdr:
         url: http://ebirdr.com/
         portfolio: true
         github_repo: ebirdr.com
-        description: |
-            Online field guide to the birds of North America revamped 
-            for Web 2.0.  Built with Symfony2.
+        description: Online field guide to the birds of North America. Built with Symfony2.
