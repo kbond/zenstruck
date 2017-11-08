@@ -30,6 +30,7 @@ projects:
     porpaginas: ~
     ZenstruckObjectRoutingBundle: ~
     php-backup: ~
+    phpmyadmin-server: ~
     zenstruck.com:
         tags: "symfony, no_tag"        
         portfolio: true
